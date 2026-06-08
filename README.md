@@ -6,3 +6,7 @@ java Student Grade Managment System
    - View All Students  
    - Search by ID
    - Calculate Average
+
+## Author
+   Umaya Manamperi - IT1214 ICA-03
+
