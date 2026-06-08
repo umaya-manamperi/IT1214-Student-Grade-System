@@ -25,6 +25,6 @@ public class Student {
 
     // Display method
     public void display() {
-        System.out.println("ID: " + studentId + ", Name: " + studentName + ", Marks: " + marks);
+        System.out.println("Student ID: " + studentId + ", Name: " + studentName + ", Marks: " + marks);
     }
 }
